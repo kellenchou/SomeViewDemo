@@ -38,6 +38,8 @@ class MainViewController: UIViewController {
         print(UIDevice.vg_safeDistanceLeft())
         print("=======right======")
         print(UIDevice.vg_safeDistanceRight())
+        
+        print("heihei")
     }
     
     func setupAction() {
